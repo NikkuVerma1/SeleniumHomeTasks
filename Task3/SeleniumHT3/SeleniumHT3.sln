@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumHT3", "SeleniumHT3.csproj", "{47C04F04-2269-40CD-8AED-1DCD8151A78A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium3", "..\Selenium3\Selenium3.csproj", "{B591D547-DCD5-4998-B5D9-AC35C976F0E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47C04F04-2269-40CD-8AED-1DCD8151A78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C04F04-2269-40CD-8AED-1DCD8151A78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C04F04-2269-40CD-8AED-1DCD8151A78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C04F04-2269-40CD-8AED-1DCD8151A78A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B591D547-DCD5-4998-B5D9-AC35C976F0E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B591D547-DCD5-4998-B5D9-AC35C976F0E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B591D547-DCD5-4998-B5D9-AC35C976F0E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B591D547-DCD5-4998-B5D9-AC35C976F0E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55B5E02C-07F6-4AE3-90B9-86B3B1ED72E5}
+	EndGlobalSection
+EndGlobal

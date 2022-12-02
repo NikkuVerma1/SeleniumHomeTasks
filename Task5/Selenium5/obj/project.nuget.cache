@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0htZqSrWWzJhv/KywHCO2Q6+AMa4jR8zVbbWHuh398ZR2ICQALIssb1P29KPylse0ify3QtZl+SwjSwKsoYtJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nikku_Verma1\\source\\repos\\SeleniumHomeTasks\\5 final\\Selenium5\\Selenium5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikku_Verma1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Nikku_Verma1\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Nikku_Verma1\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Nikku_Verma1\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Nikku_Verma1\\.nuget\\packages\\selenium.webdriver\\4.6.0\\selenium.webdriver.4.6.0.nupkg.sha512",
+    "C:\\Users\\Nikku_Verma1\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

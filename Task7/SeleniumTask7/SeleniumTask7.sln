@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTask7", "SeleniumTask7.csproj", "{91C8F6A7-F481-4178-B200-2B764C2D3270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task7", "..\Task7\Task7.csproj", "{471925F8-FB51-47E6-91BA-F92E21D11AF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91C8F6A7-F481-4178-B200-2B764C2D3270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C8F6A7-F481-4178-B200-2B764C2D3270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C8F6A7-F481-4178-B200-2B764C2D3270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C8F6A7-F481-4178-B200-2B764C2D3270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{471925F8-FB51-47E6-91BA-F92E21D11AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471925F8-FB51-47E6-91BA-F92E21D11AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471925F8-FB51-47E6-91BA-F92E21D11AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471925F8-FB51-47E6-91BA-F92E21D11AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3606694D-9597-4FF2-A365-DC348D33C738}
+	EndGlobalSection
+EndGlobal

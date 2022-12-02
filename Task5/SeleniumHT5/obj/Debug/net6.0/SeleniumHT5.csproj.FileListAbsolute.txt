@@ -1,0 +1,15 @@
+C:\Users\Nikku_Verma1\source\repos\SeleniumHT5\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Nikku_Verma1\source\repos\SeleniumHT5\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Nikku_Verma1\source\repos\SeleniumHT5\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Nikku_Verma1\source\repos\SeleniumHT5\bin\Debug\net6.0\SeleniumHT5.deps.json
+C:\Users\Nikku_Verma1\source\repos\SeleniumHT5\bin\Debug\net6.0\SeleniumHT5.dll
+C:\Users\Nikku_Verma1\source\repos\SeleniumHT5\bin\Debug\net6.0\SeleniumHT5.pdb
+C:\Users\Nikku_Verma1\source\repos\SeleniumHT5\obj\Debug\net6.0\SeleniumHT5.csproj.AssemblyReference.cache
+C:\Users\Nikku_Verma1\source\repos\SeleniumHT5\obj\Debug\net6.0\SeleniumHT5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikku_Verma1\source\repos\SeleniumHT5\obj\Debug\net6.0\SeleniumHT5.AssemblyInfoInputs.cache
+C:\Users\Nikku_Verma1\source\repos\SeleniumHT5\obj\Debug\net6.0\SeleniumHT5.AssemblyInfo.cs
+C:\Users\Nikku_Verma1\source\repos\SeleniumHT5\obj\Debug\net6.0\SeleniumHT5.csproj.CoreCompileInputs.cache
+C:\Users\Nikku_Verma1\source\repos\SeleniumHT5\obj\Debug\net6.0\SeleniumHT5.dll
+C:\Users\Nikku_Verma1\source\repos\SeleniumHT5\obj\Debug\net6.0\refint\SeleniumHT5.dll
+C:\Users\Nikku_Verma1\source\repos\SeleniumHT5\obj\Debug\net6.0\SeleniumHT5.pdb
+C:\Users\Nikku_Verma1\source\repos\SeleniumHT5\obj\Debug\net6.0\ref\SeleniumHT5.dll
