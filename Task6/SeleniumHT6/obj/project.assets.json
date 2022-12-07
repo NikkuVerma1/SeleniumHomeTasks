@@ -309,11 +309,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikku_Verma1\\source\\repos\\SeleniumHT6\\SeleniumHT6.csproj",
+      "projectUniqueName": "C:\\Users\\Nikku_Verma1\\source\\repos\\SeleniumHomeTasks\\New folder\\Task6\\SeleniumHT6\\SeleniumHT6.csproj",
       "projectName": "SeleniumHT6",
-      "projectPath": "C:\\Users\\Nikku_Verma1\\source\\repos\\SeleniumHT6\\SeleniumHT6.csproj",
+      "projectPath": "C:\\Users\\Nikku_Verma1\\source\\repos\\SeleniumHomeTasks\\New folder\\Task6\\SeleniumHT6\\SeleniumHT6.csproj",
       "packagesPath": "C:\\Users\\Nikku_Verma1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikku_Verma1\\source\\repos\\SeleniumHT6\\obj\\",
+      "outputPath": "C:\\Users\\Nikku_Verma1\\source\\repos\\SeleniumHomeTasks\\New folder\\Task6\\SeleniumHT6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

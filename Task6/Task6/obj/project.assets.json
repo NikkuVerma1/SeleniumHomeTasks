@@ -1338,11 +1338,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikku_Verma1\\source\\repos\\Task6\\Task6.csproj",
+      "projectUniqueName": "C:\\Users\\Nikku_Verma1\\source\\repos\\SeleniumHomeTasks\\New folder\\Task6\\Task6\\Task6.csproj",
       "projectName": "Task6",
-      "projectPath": "C:\\Users\\Nikku_Verma1\\source\\repos\\Task6\\Task6.csproj",
+      "projectPath": "C:\\Users\\Nikku_Verma1\\source\\repos\\SeleniumHomeTasks\\New folder\\Task6\\Task6\\Task6.csproj",
       "packagesPath": "C:\\Users\\Nikku_Verma1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikku_Verma1\\source\\repos\\Task6\\obj\\",
+      "outputPath": "C:\\Users\\Nikku_Verma1\\source\\repos\\SeleniumHomeTasks\\New folder\\Task6\\Task6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

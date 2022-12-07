@@ -9,6 +9,8 @@ namespace SeleniumHT6
         public IWebDriver driver;
         private string initialPrice = "";
         string itemName = "";
+        By checkoutButton = By.XPath("//button[@id='checkout']");
+
         [SetUp]
         public virtual void Setup()
         {
@@ -54,7 +56,7 @@ namespace SeleniumHT6
         public void Checkout()
         {
             Cart();
-            IWebElement checkout = driver.FindElement(By.XPath("//button[@id='checkout']"));
+            IWebElement checkout = driver.FindElement(checkoutButton);
             checkout.Click();
             IWebElement firstName = driver.FindElement(By.XPath("//input[@id='first-name']"));
             firstName.SendKeys("Nikku");

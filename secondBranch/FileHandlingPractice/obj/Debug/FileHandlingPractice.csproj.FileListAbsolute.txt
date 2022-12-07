@@ -1,0 +1,8 @@
+C:\Users\Nikku_Verma1\source\repos\FileHandlingPractice\bin\Debug\FileHandlingPractice.exe.config
+C:\Users\Nikku_Verma1\source\repos\FileHandlingPractice\bin\Debug\FileHandlingPractice.exe
+C:\Users\Nikku_Verma1\source\repos\FileHandlingPractice\bin\Debug\FileHandlingPractice.pdb
+C:\Users\Nikku_Verma1\source\repos\FileHandlingPractice\obj\Debug\FileHandlingPractice.csproj.AssemblyReference.cache
+C:\Users\Nikku_Verma1\source\repos\FileHandlingPractice\obj\Debug\FileHandlingPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikku_Verma1\source\repos\FileHandlingPractice\obj\Debug\FileHandlingPractice.csproj.CoreCompileInputs.cache
+C:\Users\Nikku_Verma1\source\repos\FileHandlingPractice\obj\Debug\FileHandlingPractice.exe
+C:\Users\Nikku_Verma1\source\repos\FileHandlingPractice\obj\Debug\FileHandlingPractice.pdb

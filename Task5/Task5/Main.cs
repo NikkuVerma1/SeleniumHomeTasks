@@ -24,7 +24,7 @@ namespace Task5
             driver.Manage().Window.Maximize();
             driver.FindElement(By.XPath("//button[contains(text(),'✕')]")).Click();
         }
-
+        
         [Test]
         public void TabsAvailableOrNot()
         {

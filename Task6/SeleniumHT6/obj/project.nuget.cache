@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u3SfUzTMhVHWNj/+IG2fxde16PlrqJDfXOppU2bghSzLw8AaedKFZIsJursNyeRzhfTbAnvzl0zqEBJeoCVSYg==",
+  "dgSpecHash": "Tofkj7KJAAfbv41OTRPcDhcf9wiVkHmKKzBiF4qm1l22R/9Vf3Pe7HUdfyIXs+L9gH8kswAl9FnPVsIINR5S7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nikku_Verma1\\source\\repos\\SeleniumHT6\\SeleniumHT6.csproj",
+  "projectFilePath": "C:\\Users\\Nikku_Verma1\\source\\repos\\SeleniumHomeTasks\\New folder\\Task6\\SeleniumHT6\\SeleniumHT6.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nikku_Verma1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Nikku_Verma1\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",

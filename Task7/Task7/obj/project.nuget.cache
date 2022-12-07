@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mOVOsfyIsYBq/LUekKqi8IBVfU9tBzM1GjjYB8R5n42oBTXaFgrRrSeLmFiF6Ge7Wi0BrqgDT3GW1iUCh/u1qA==",
+  "dgSpecHash": "f3eUohyhOZqep+inPL5izoez3rhJWhWC9KNR81UlxsbbirP6HYtZl96AjuFZgjqQBKr2va/IGa3+qc1IE9EIzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nikku_Verma1\\source\\repos\\SeleniumHomeTasks\\Task7\\Task7\\Task7.csproj",
+  "projectFilePath": "C:\\Users\\Nikku_Verma1\\source\\repos\\SeleniumHomeTasks\\New folder\\Task7\\Task7\\Task7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nikku_Verma1\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Nikku_Verma1\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
