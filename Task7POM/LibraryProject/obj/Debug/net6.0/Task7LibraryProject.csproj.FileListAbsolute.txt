@@ -1,0 +1,15 @@
+C:\Users\Nikku_Verma1\source\repos\Task7POM\LibraryProject\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Nikku_Verma1\source\repos\Task7POM\LibraryProject\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Nikku_Verma1\source\repos\Task7POM\LibraryProject\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Nikku_Verma1\source\repos\Task7POM\LibraryProject\bin\Debug\net6.0\Task7LibraryProject.deps.json
+C:\Users\Nikku_Verma1\source\repos\Task7POM\LibraryProject\bin\Debug\net6.0\Task7LibraryProject.dll
+C:\Users\Nikku_Verma1\source\repos\Task7POM\LibraryProject\bin\Debug\net6.0\Task7LibraryProject.pdb
+C:\Users\Nikku_Verma1\source\repos\Task7POM\LibraryProject\obj\Debug\net6.0\Task7LibraryProject.csproj.AssemblyReference.cache
+C:\Users\Nikku_Verma1\source\repos\Task7POM\LibraryProject\obj\Debug\net6.0\Task7LibraryProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikku_Verma1\source\repos\Task7POM\LibraryProject\obj\Debug\net6.0\Task7LibraryProject.AssemblyInfoInputs.cache
+C:\Users\Nikku_Verma1\source\repos\Task7POM\LibraryProject\obj\Debug\net6.0\Task7LibraryProject.AssemblyInfo.cs
+C:\Users\Nikku_Verma1\source\repos\Task7POM\LibraryProject\obj\Debug\net6.0\Task7LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\Nikku_Verma1\source\repos\Task7POM\LibraryProject\obj\Debug\net6.0\Task7LibraryProject.dll
+C:\Users\Nikku_Verma1\source\repos\Task7POM\LibraryProject\obj\Debug\net6.0\refint\Task7LibraryProject.dll
+C:\Users\Nikku_Verma1\source\repos\Task7POM\LibraryProject\obj\Debug\net6.0\Task7LibraryProject.pdb
+C:\Users\Nikku_Verma1\source\repos\Task7POM\LibraryProject\obj\Debug\net6.0\ref\Task7LibraryProject.dll
