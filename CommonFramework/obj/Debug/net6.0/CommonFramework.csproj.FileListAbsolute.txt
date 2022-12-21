@@ -1,0 +1,15 @@
+C:\Users\Nikku_Verma1\source\repos\OrangeHRM\CommonFramework\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\Nikku_Verma1\source\repos\OrangeHRM\CommonFramework\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\Nikku_Verma1\source\repos\OrangeHRM\CommonFramework\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Nikku_Verma1\source\repos\OrangeHRM\CommonFramework\bin\Debug\net6.0\CommonFramework.deps.json
+C:\Users\Nikku_Verma1\source\repos\OrangeHRM\CommonFramework\bin\Debug\net6.0\CommonFramework.dll
+C:\Users\Nikku_Verma1\source\repos\OrangeHRM\CommonFramework\bin\Debug\net6.0\CommonFramework.pdb
+C:\Users\Nikku_Verma1\source\repos\OrangeHRM\CommonFramework\obj\Debug\net6.0\CommonFramework.csproj.AssemblyReference.cache
+C:\Users\Nikku_Verma1\source\repos\OrangeHRM\CommonFramework\obj\Debug\net6.0\CommonFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikku_Verma1\source\repos\OrangeHRM\CommonFramework\obj\Debug\net6.0\CommonFramework.AssemblyInfoInputs.cache
+C:\Users\Nikku_Verma1\source\repos\OrangeHRM\CommonFramework\obj\Debug\net6.0\CommonFramework.AssemblyInfo.cs
+C:\Users\Nikku_Verma1\source\repos\OrangeHRM\CommonFramework\obj\Debug\net6.0\CommonFramework.csproj.CoreCompileInputs.cache
+C:\Users\Nikku_Verma1\source\repos\OrangeHRM\CommonFramework\obj\Debug\net6.0\CommonFramework.dll
+C:\Users\Nikku_Verma1\source\repos\OrangeHRM\CommonFramework\obj\Debug\net6.0\refint\CommonFramework.dll
+C:\Users\Nikku_Verma1\source\repos\OrangeHRM\CommonFramework\obj\Debug\net6.0\CommonFramework.pdb
+C:\Users\Nikku_Verma1\source\repos\OrangeHRM\CommonFramework\obj\Debug\net6.0\ref\CommonFramework.dll

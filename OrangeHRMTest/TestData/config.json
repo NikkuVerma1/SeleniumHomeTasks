@@ -1,0 +1,8 @@
+﻿{
+  "ApplicationURL": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+  "Username": "Admin",
+  "Password": "admin123",
+  "FirstName": "abc",
+  "LastName": "pqr",
+  "PostalCode": "123456"
+}
